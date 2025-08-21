@@ -1,14 +1,14 @@
-Dokumentasi BackdoorSky168-VersiSiluman.php
+Dokumentasi BackdoorShellSky168.php
 
 ⚠️ Disclaimer: Segala bentuk penyalahgunaan, baik yang bersifat ilegal maupun merusak, sepenuhnya menjadi tanggung jawab pengguna.
 
 1. Pendahuluan
 
-BackdoorSky168-VersiSiluman.php ini merupakan backdoor shell berbasis web yang dilengkapi dengan fitur siluman bypass WAF, autentikasi, manajemen file, terminal, dan pemindai backdoor. Tampilan antarmuka (UI) sederhana menggunakan latar belakang hitam dan font monospace.
+BackdoorShellSky168.php ini merupakan backdoor shell berbasis web yang dilengkapi dengan fitur siluman bypass WAF, autentikasi, manajemen file, terminal, dan pemindai backdoor. Tampilan antarmuka (UI) sederhana menggunakan latar belakang hitam dan font monospace.
 
 2. Konfigurasi
 
-Beberapa konfigurasi penting pada BackdoorSky168-VersiSiluman.php ini meliputi:
+Beberapa konfigurasi penting pada BackdoorShellSky168.php ini meliputi:
 
 - Direktori utama.
 
@@ -24,7 +24,7 @@ Beberapa konfigurasi penting pada BackdoorSky168-VersiSiluman.php ini meliputi:
 
 3. Fungsi Helper
 
-BackdoorSky168-VersiSiluman.php ini menyediakan fungsi helper sebagai berikut:
+BackdoorShellSky168.php ini menyediakan fungsi helper sebagai berikut:
 
 - Mengecek apakah pengguna sudah login.
 
@@ -83,7 +83,7 @@ eval, base64_decode, system, exec, shell_exec, passthru, popen, proc_open, asser
 
 9. Antarmuka Pengguna
 
-Antarmuka BackdoorSky168-VersiSiluman.php mencakup:
+Antarmuka BackdoorShellSky168.php mencakup:
 
 - Tampilan berbasis HTML dan CSS sederhana.
 
@@ -97,7 +97,7 @@ Antarmuka BackdoorSky168-VersiSiluman.php mencakup:
 
 10. Kesimpulan
 
-- BackdoorSky168-VersiSiluman.php dilengkapi fitur untuk menghindari deteksi oleh WAF (Web Application Firewall) seperti LiteSpeed, Imunify360, dan sejenisnya, sehingga script ini tidak mudah terhapus.
+- BackdoorShellSky168.php dilengkapi fitur untuk menghindari deteksi oleh WAF (Web Application Firewall) seperti LiteSpeed, Imunify360, dan sejenisnya, sehingga script ini tidak mudah terhapus.
 Versi ini juga menambahkan kemampuan bagi pengguna untuk mengubah password default, untuk memperkuat kontrol akses.
 Tampilan login dibuat menyerupai halaman 404 Not Found, Pengguna dapat login dengan menekan tombol Tab pada PC atau laptop.
 
